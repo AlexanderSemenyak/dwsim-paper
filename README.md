@@ -1,3 +1,5 @@
+orig: https://github.com/andr1976/dwsim-paper
+
 # dwsim-paper
 This repository contains supplementary material and information for the paper "Evaluation of an open-source chemical process simulator using a plant wide oil and gas separation plant flowsheet model as basis" by Anders Andreasen. 
 
